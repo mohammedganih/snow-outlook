@@ -1,0 +1,32 @@
+Issue:
+
+AppPool Status
+
+Probable Reason:
+
+Application Pool is not Running
+
+Impacted Server:
+
+PI Vision Server
+
+Start Time:
+
+8/25/2020 5:27:29 AM Coordinated Universal Time (GMT00:00:00)
+
+Severity
+
+Major
+
+Action Needed:
+
+1.Check The status of Web API Service and Web Crawler Service. Start the service, if not already running.
+
+2. Check the Application Pool and start if required. 
+
+2.If service running properly,check for other probable reasons.
+
+Notes: 
+
+This notification has been generated as PI Vision and PI Admin Current Application Pool states are not running for the past 10 minutes 
+

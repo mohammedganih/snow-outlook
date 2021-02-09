@@ -1,5 +1,5 @@
 <appSettings>
     <add key="ServiceNowUserName" value="admin"/>
-    <add key="ServiceNowPassword" value="Admin@321!"/>
-    <add key="ServiceNowUrl" value="https://dev72857.service-now.com/api/now/table/incident" />
+    <add key="ServiceNowPassword" value="password"/>
+    <add key="ServiceNowUrl" value="https://dev00000.service-now.com/api/now/table/incident" />
   </appSettings>
